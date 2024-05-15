@@ -1,0 +1,27 @@
+.options-list-item {
+  list-style-type: none;
+  display: flex;
+}
+.option-button {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+.option-img {
+  width: 170px;
+  height: 170px;
+}
+.button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #223a5f;
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
